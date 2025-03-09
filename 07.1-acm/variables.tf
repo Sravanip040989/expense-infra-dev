@@ -16,7 +16,7 @@ variable "common_tags" {
 }
 
 variable "zone_name" {
-  default = "daws78s.online"
+  default = "funbag.online"
 }
 
 variable "zone_id" {
